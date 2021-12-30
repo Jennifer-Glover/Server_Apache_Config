@@ -20,7 +20,7 @@ In this way, the Apache modules provide a way to extend the function of a Web se
 # Background
 You were hired by a startup company and management has recently changed. You have been tasked with creating a company website. 
 
-# Assignment Steps
+# Steps
 1. Build a splash page for your company
    - Come up with a company name and a simple product
    - Build a simple web page for this compnay
