@@ -56,13 +56,6 @@ Hint: [Custom Error Response](https://httpd.apache.org/docs/2.4/en/custom-error.
 
 5. The company has been sold and you need to come up with a new company name
    - Force a redirect to the new company name
-# Submission
-You will commit the following files:  
-- Main splash page (index.html)
-- The splash pages for each user
-- Updated vhost (virtual host) file containing all the required Alias, RewriteRule and etc...
-- forbidden.html 
-- not-found.html 
 
 # Extra Steps
 Optional: Create a custom image using Docker which does all the steps listed above. 
